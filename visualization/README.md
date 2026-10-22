@@ -1,0 +1,1 @@
+Vaccination Status visualization folder
